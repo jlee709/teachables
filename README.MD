@@ -10,4 +10,4 @@ Goal is to have a collection of materials that can be used by educators to aid i
 this could change of course since the material also assums a small talk or lecture about certain topics. just enough to get your hands dirty and start coding :)
 
 
-
+The playground section is a place where students and learners can try new things by playing with some of the html, css and vanilla js functions to break and play with a scaffold. this is would be ideal for a subliment to the exercises since they can use some of the basics to see where they can improve but get used to the syntax 
