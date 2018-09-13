@@ -72,11 +72,11 @@ After that, try building your own application. And finally, apply those learning
 
 **Resources:**
 
-https://medium.freecodecamporg/usespaced-repetition*with-anki-to-learn-to-code-faster-7c334d448c3c
+https://medium.freecodecamp.org/use-spaced-repetition-with-anki-to-learn-to-code-faster-7c334d448c3c
 
-https://medium.com/learn-love*-ode/learnings-from-learning-how-to-learn1-9d149920dc4
+https://medium.com/learn-love-code/learnings-from-learning-how-to-learn-19d149920dc4
 
-https://en.wikipedia.org/wiki/Spaced_repetition
+https://en.wikipedia.org/wiki/Spaced
 
 Anki: For Spaced Repetition
 
